@@ -1,6 +1,6 @@
 # todolist_practice
 
-A new Flutter project.
+My self-made medium-level complexity todo-list app using flutter
 
 ## Getting Started
 
